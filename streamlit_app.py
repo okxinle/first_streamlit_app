@@ -1,3 +1,5 @@
+streamlit.stop
+
 import streamlit
 import snowflake.connector
 
